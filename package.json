@@ -1,0 +1,22 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "This is demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwijal/React-Practice.git"
+  },
+  "author": "Dwijal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dwijal/React-Practice/issues"
+  },
+  "homepage": "https://github.com/Dwijal/React-Practice#readme",
+  "dependencies": {
+    "parcel": "^2.11.0"
+  }
+}
